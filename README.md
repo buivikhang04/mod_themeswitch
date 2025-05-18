@@ -60,7 +60,7 @@ Nếu bạn muốn đóng góp vào sự phát triển của module này, vui l�
 
 ## Liên hệ
 
-Nếu bạn có câu hỏi hoặc cần hỗ trợ, bạn liên:
+Nếu bạn có câu hỏi hoặc cần hỗ trợ, bạn liên hệ:
 
 -  SDT: 0338822924
 -  Email: thanhnguyen12022004@gmail.com
