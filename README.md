@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-**ThemeSwitch** là một module dành cho Joomla giúp người dùng tùy chọn **chế độ sáng/tối** và **thay đổi kích thước chữ** trên toàn bộ trang web. Module này giúp cải thiện trải nghiệm người dùng bằng cách cho phép họ điều chỉnh giao diện phù hợp với thị giác và môi trường sử dụng.
+**mod_themeswitch** là một module dành cho Joomla giúp người dùng tùy chọn **chế độ sáng/tối** và **thay đổi kích thước chữ** trên toàn bộ trang web. Module này giúp cải thiện trải nghiệm người dùng bằng cách cho phép họ điều chỉnh giao diện phù hợp với thị giác và môi trường sử dụng.
 
 ## Tính năng chính
 
