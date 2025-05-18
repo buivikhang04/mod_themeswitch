@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="4.0" client="site" method="upgrade">
+    <name>mod_themeswitch</name>
+    <author>Bùi Vĩ Khang và Nguyễn Chí Thanh</author>
+    <license>MIT</license>
+    <version>1.0.0</version>
+    <description>Module chuyển đổi chế độ nền sáng/tối và cỡ chữ</description>
+
+    <files>
+        <filename module="mod_themeswitch">mod_themeswitch.php</filename>
+        <folder>tmpl</folder>
+    </files>
+
+    <config>
+        <fields name="params">
+            <fieldset name="basic" label="Thiết lập">
+
+                <field name="font_size_small" type="text" label="Cỡ chữ nhỏ (px)" default="12" description="Cỡ chữ nhỏ, tính bằng pixel" />
+                <field name="font_size_large" type="text" label="Cỡ chữ lớn (px)" default="15" description="Cỡ chữ lớn, tính bằng pixel" />
+            </fieldset>
+        </fields>
+    </config>
+</extension>
