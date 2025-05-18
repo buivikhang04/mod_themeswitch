@@ -1,4 +1,4 @@
-# Module: ThemeSwitch (Tùy Chỉnh Giao Diện & Cỡ Chữ)
+# Module ThemeSwitch (Tùy Chỉnh Giao Diện & Cỡ Chữ)
 
 ## Giới thiệu
 
